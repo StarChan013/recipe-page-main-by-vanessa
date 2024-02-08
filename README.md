@@ -19,13 +19,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./design/recipe-solution-vanessa.png)
-![](./design/recipe-solution-mobile-vanessa.png)
+![](./solutions-screenshots/recipe-solution-vanessa.png)
+![](./solutions-screenshots/recipe-solution-mobile-vanessa.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/StarChan013/recipe-page-main-by-vanessa)
+- Live Site URL: [Website](https://starchan013.github.io/recipe-page-main-by-vanessa/)
 
 ## My process
 
