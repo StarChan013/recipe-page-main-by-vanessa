@@ -43,7 +43,7 @@ body {
 
 .headtext__description {
     font-family: var(--secondary-font);
-    font-family: 16px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 130%;
     color: var(--wenge-brown);
@@ -185,7 +185,7 @@ hr {
 
 .nutrition__text {
     font-family: var(--secondary-font);
-    font-family: 16px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 130%;
     color: var(--wenge-brown);
@@ -248,7 +248,7 @@ hr {
 
 /* MEDIA QUERIES */
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 800px) {
     body {
         background-color: var(--eggshell);
     }
