@@ -145,10 +145,6 @@ hr {
     margin-bottom: 1.5rem;
 }
 
-.instructions__list li {
-    list-style: decimal outside none;
-}
-
 .instructions__list li::marker {
     color: var(--nutmeg);
     font-weight: 700;
@@ -168,6 +164,7 @@ hr {
     padding-left: 1rem;
     line-height: 140%;
 }
+
 
 /* NUTRITION TABLE */
 
@@ -217,8 +214,6 @@ hr {
 .table__infos {
     font-family: var(--secondary-font);
     color: var(--wenge-brown);
-    font-size: 16px;
-    font-weight: 400;
 }
 
 .table__numbers {
@@ -226,6 +221,10 @@ hr {
     color: var(--nutmeg);
     font-size: 16px;
     font-weight: 600;
+}
+
+.nutrition__table tr:last-child {
+    border-bottom: none;
 }
 
 /* FOOTER */
@@ -254,7 +253,7 @@ hr {
     }
 
     .main__container {
-        max-width: 35%;
+        max-width: 45%;
         margin-left: auto;
         margin-right: auto;
         margin-top: 4rem;
